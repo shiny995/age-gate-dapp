@@ -8,3 +8,4 @@ This dApp uses zero-knowledge proofs to verify age eligibility without revealing
 - GitHub Actions for CI/CD
 ### How to Run
 1. npm install
+2. npm test
