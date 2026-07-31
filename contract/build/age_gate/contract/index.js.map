@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "file": "index.js",
+  "sourceRoot": "../../../",
+  "sources": ["src/age_gate.compact"],
+  "names": [],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EAAA;;;;;;;;;;;;;MAMA,AAAA,gBAGC;;;;;;;;;;;;;;;;;;;;;;OAAA;;;;GACA;EAVD;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;GAUC;EAND,AAAA,MAAuB;;0DAAvB,GAAuB;;;;;;;;;;;;;;GAAA;EAEvB,AAAA,mBAGC;UAFS,SAAqB;UACX,GAAgB,kDAAhB,GAAgB,IAAP,SAAO;GACnC;;;;;;;;;;;;;;;;;;;;;;;;;"
+}

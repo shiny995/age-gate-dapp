@@ -1,7 +1,10 @@
-witness age: Uint<8>;
+pragma language_version >= 0.13.0;
 
-const MIN_AGE: Uint<8> = 18;
+import CompactStandardLibrary;
+
+witness age(): Uint<8>;
 
 export circuit checkEligibility(): Boolean {
-    return age >= MIN_AGE;
+    const MIN_AGE: Uint<8> = 18;
+    return disclose(age() >= MIN_AGE);
 }

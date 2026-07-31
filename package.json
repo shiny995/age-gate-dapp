@@ -1,0 +1,26 @@
+{
+  "name": "age-gate-dapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@babel/core": "^8.0.1",
+    "@babel/preset-env": "^8.0.2",
+    "babel-jest": "^30.4.1",
+    "babel-plugin-transform-import-meta": "^3.0.0",
+    "jest": "^30.4.2"
+  },
+  "dependencies": {
+    "@midnight-ntwrk/compact-runtime": "^0.16.0"
+  }
+}
