@@ -9,3 +9,4 @@ This dApp uses zero-knowledge proofs to verify age eligibility without revealing
 ### How to Run
 1. npm install
 2. npm test
+3. npm start
