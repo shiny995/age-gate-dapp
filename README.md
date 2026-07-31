@@ -4,3 +4,4 @@ This dApp uses zero-knowledge proofs to verify age eligibility without revealing
 
 ### Tech Stack
 - Compact circuits for zero-knowledge proofs
+- Node.js + Jest for testing
