@@ -1,0 +1,7 @@
+witness age: Uint<8>;
+
+const MIN_AGE: Uint<8> = 18;
+
+export circuit checkEligibility(): Boolean {
+    return age >= MIN_AGE;
+}
